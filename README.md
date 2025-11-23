@@ -28,7 +28,7 @@ Follow these steps to set up the project on your local machine:
 
 Clone the Repository:
 
-git clone https://github.com/shivanshg976-wq/Logic-Quset
+git clone (https://github.com/shivanshg976-wq/Logic-Quest)
 
 
 Navigate to the Directory:
@@ -55,5 +55,6 @@ Data Type Test: Enter non-numeric text (e.g., "Hello").
 Expected Result: A system error message displays: "Non-numeric input detected".
 
 Persistence Test: Play until you win, then close the app and reopen it.
+
 
 Expected Result: The "System Best" score at the top remains updated with your previous score.
